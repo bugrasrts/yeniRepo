@@ -17,6 +17,6 @@ public class Class01 {
         System.out.println("Perişan olduk");
 
 
-
+//githubdan sea
     }
 }
