@@ -15,7 +15,7 @@ public class Class01 {
         //V5 kodlarim...
         //v6 Version..
         System.out.println("Perişan olduk");
-        //v7 yenisine girdik
+        //v7 yenisine girdik.
 
 //githubdan sea
     }
